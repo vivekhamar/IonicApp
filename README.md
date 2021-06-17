@@ -1,2 +1,2 @@
 # IonicApp
-THis is an Ionic - Angular application
+Tis is an Ionic - Angular application
